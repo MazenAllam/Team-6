@@ -1,0 +1,3 @@
+﻿  Main.cpp
+C:\Users\Mazen Allam\Downloads\Project1-master\ConsoleApplication1\Main.cpp(31,10): error C2601: 'localtime': local function definitions are illegal
+C:\Users\Mazen Allam\Downloads\Project1-master\ConsoleApplication1\Main.cpp(14): message : this line contains a '{' which has not yet been matched
